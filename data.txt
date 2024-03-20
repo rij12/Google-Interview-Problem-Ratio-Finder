@@ -1,0 +1,8 @@
+centimeter, inch, 2.540
+millimeter, meters, 0.1
+millimeter, centimeter, 10
+foot, meter, 0.3048
+inch, foot, 12
+yard, meter, 0.9144
+hand, inch, 4
+light year, meter, 9.461e+15
